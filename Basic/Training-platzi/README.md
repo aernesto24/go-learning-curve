@@ -1,0 +1,1 @@
+##Under this folder there will be coding exercises from PLATZI BASIC Training on GO
